@@ -1,3 +1,3 @@
-# Items to Read and Videos to Watch:
+# Articles to Read, Videos to Watch:
 
-```https://www.dataquest.io/blog/kaggle-tutorial/```
+https://www.dataquest.io/blog/kaggle-tutorial/
